@@ -1,6 +1,8 @@
-//This is a c++ file by Tripti 
-#include<iostream>
+// This is a c++ file by Tripti
+#include <iostream>
 using namespace std;
-int main(){
+int main()
+{
+    cout << "Hello Tripti";
     return 0;
 }
